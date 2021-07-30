@@ -4,5 +4,15 @@
 }
 
 body {
-    background: #ca1818dd;
+    background: hsla(0, 0%, 47%, 0.867);
+}
+
+.head {
+    width: 100%;
+    padding: 0px 40px;
+    line-height: 100px;
+}
+
+.head title{
+    color: blue;
 }
