@@ -106,7 +106,35 @@ nav a{
     display: inline;
 }
 
-.aboutSec a{
+.aboutSec a {
+    text-decoration: none;
+}
+
+.contactSec {
+    padding: 10%;
+    align-items: center;
+    text-align: center;
+    color: antiquewhite;
+    text-shadow: -1px 1px #000;
+    font-size: 25px;
+}
+
+.contactSec ul {
+    list-style-type: none;
+    margin: 0%;
+    padding-left: 35%;
+    padding-right: 35%;
+    align-items: stretch;
+    text-align: justify;
+    display: flex;
+    justify-content: space-evenly ;
+}
+
+.contactSec li {
+    display: inline;
+}
+
+.contactSec a {
     text-decoration: none;
 }
 
