@@ -21,6 +21,8 @@ nav {
     padding: 0px 0px;
     line-height: 20px;
     font-weight: bold;
+    position: fixed;
+    transition: top 0.3s;
 }
 
 .navBox {
@@ -52,11 +54,6 @@ nav a{
     display: block;
     color: white;
     text-decoration: none;
-}
-
-nav a:active{
-    color: rgb(17, 17, 17);
-    background-color: white;
 }
 
 .headerDisplay {
