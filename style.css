@@ -23,30 +23,35 @@ nav {
     padding: 0px 0px;
     line-height: 20px;
     font-weight: bold;
-    display: flex;
 }
 
 .navBox {
     margin: 0px;
-    padding: 0px;
+    padding: 5px;
     width: 100%;
     background-color:rgb(17, 17, 17);
 }
-.navName {
 
+nav ul {
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+    font-size: 18px;
 }
 
 nav li {
     list-style-type: none;
     margin: 0;
-    padding: 0px 30px;
+    padding: 14px 16px;
     color: aqua;
     text-align: right;
     display: inline;
-    font-size: 18px;
+    float: right;
 }
 
 nav a:link{
+    display: block;
     color: white;
     text-decoration: none;
 }
