@@ -48,10 +48,15 @@ nav li {
     float: right;
 }
 
-nav a:link{
+nav a{
     display: block;
     color: white;
     text-decoration: none;
+}
+
+nav a:active{
+    color: rgb(17, 17, 17);
+    background-color: white;
 }
 
 .headerDisplay {
