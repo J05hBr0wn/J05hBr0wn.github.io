@@ -81,3 +81,30 @@ nav a{
 .aboutSec h2 {
     font-size: 50px;
 }
+
+.redText {
+    color: red;
+}
+.cyanText {
+    color: cyan;
+}
+
+.yellowText {
+    color: yellow;
+}
+
+.orangeText {
+    color:orange;
+}
+
+.greenText {
+    color: limegreen;
+}
+
+.purpleText {
+    color: blueviolet;
+}
+
+.blueText {
+    color: blue;
+}
