@@ -70,7 +70,7 @@ nav a{
 }
 
 .aboutSec {
-    padding: 10%;
+    padding: 0%;
     align-items: center;
     text-align: center;
     color: antiquewhite;
@@ -79,7 +79,34 @@ nav a{
 }
 
 .aboutSec h2 {
+    margin-top: 10%;
     font-size: 50px;
+}
+
+.aboutSec p {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.aboutSec ul {
+    list-style-type: none;
+    margin: 0%;
+    padding-left: 35%;
+    padding-right: 35%;
+    align-items: stretch;
+    text-align: justify;
+    display: flex;
+    justify-content: space-evenly ;
+}
+
+.aboutSec li {
+    display: inline;
+}
+
+.aboutSec a{
+    text-decoration: none;
 }
 
 .redText {
