@@ -58,7 +58,7 @@ nav a{
 
 .headerDisplay {
     margin: 20%;
-    padding-bottom: 30%;
+    padding-bottom: 60%;
     align-items: center;
     text-align: center;
     color: antiquewhite;
@@ -67,6 +67,8 @@ nav a{
 
 .headerDisplay h1{
     font-size: 100px;
+    border-bottom: 5px solid white;
+    margin-bottom: 1%;
 }
 
 .aboutSec {
@@ -111,7 +113,7 @@ nav a{
 }
 
 .contactSec {
-    padding: 10%;
+    padding: 2%;
     align-items: center;
     text-align: center;
     color: antiquewhite;
@@ -136,6 +138,18 @@ nav a{
 
 .contactSec a {
     text-decoration: none;
+}
+
+.linkBox {
+    width: 28%;
+    padding: 2.5%;
+    margin: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgb(17, 17, 17);
+    border-radius: 15px 50px;
+    display: inline-block;
+    border: 5px solid white;
 }
 
 .redText {
