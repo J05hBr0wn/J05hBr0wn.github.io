@@ -11,7 +11,7 @@ html {
 
 body {
     background-image: url("./background2.jpg"), url("carbon.jpeg");
-    background-size: auto, auto;
+    background-size: contain, auto;
     background-position: center top;
     background-repeat: no-repeat, repeat;
     min-height: 100 px;
