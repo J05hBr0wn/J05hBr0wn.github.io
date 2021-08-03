@@ -62,7 +62,7 @@ nav a{
 
 .headerDisplay {
     margin: 20%;
-    padding-bottom: 60%;
+    padding-bottom: 90%;
     align-items: center;
     text-align: center;
     color: antiquewhite;
@@ -176,6 +176,15 @@ nav a{
     background-size: contain;
     background-repeat: no-repeat;
     border: 5px solid white;
+}
+
+.projIcon {
+    font-size: 150px;
+    float: right;
+    display: inline;
+    padding-top: 3%;
+    padding-right: 15%;
+    justify-content: space-evenly;
 }
 
 .contactSec {
