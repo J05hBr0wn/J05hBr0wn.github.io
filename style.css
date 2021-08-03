@@ -11,7 +11,7 @@ html {
 
 body {
     background-image: url("./background2.jpg"), url("carbon.jpeg");
-    background-size: contain, auto;
+    background-size: auto, auto;
     background-position: center top;
     background-repeat: no-repeat, repeat;
     min-height: 100 px;
@@ -133,7 +133,6 @@ nav a{
     text-shadow: -1px 1px #000;
     font-size: 25px;
     padding-bottom: 0%;
-    border-top: 5px solid white;
 }
 
 .projectSec h1 {
