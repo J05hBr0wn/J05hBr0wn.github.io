@@ -10,9 +10,10 @@ html {
 }
 
 body {
-    background-image: url("./background.jpg");
-    background-size: cover;
+    background-image: url("./background2.jpg");
+    background-size: contain;
     background-position: center top;
+    background-repeat: no-repeat;
     min-height: 100 px;
     flex-direction: column;
     font-family: "Quicksand", sans-serif;
@@ -62,7 +63,7 @@ nav a{
 
 .headerDisplay {
     margin: 20%;
-    padding-bottom: 90%;
+    padding-bottom: 60%;
     align-items: center;
     text-align: center;
     color: antiquewhite;
