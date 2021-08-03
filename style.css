@@ -85,7 +85,7 @@ nav a{
     color: antiquewhite;
     text-shadow: -1px 1px #000;
     font-size: 25px;
-    padding-bottom: 40%;
+    padding-bottom: 34%;
 }
 
 .aboutSec h2 {
@@ -128,11 +128,12 @@ nav a{
 }
 
 .projectSec {
-    padding-top: 8%;
+    padding-top: 10%;
     color: antiquewhite;
     text-shadow: -1px 1px #000;
     font-size: 25px;
     padding-bottom: 0%;
+    border-top: 5px solid white;
 }
 
 .projectSec h1 {
